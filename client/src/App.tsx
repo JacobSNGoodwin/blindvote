@@ -7,7 +7,7 @@ const App: Component = () => {
   return (
     <PocketBaseProvider>
       <div class={styles.App}>
-        <h1>Cleaned up Solid app!</h1>
+        <h1 class="title">Cleaned up Solid app!</h1>
       </div>
     </PocketBaseProvider>
   );
